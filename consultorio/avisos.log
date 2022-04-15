@@ -1,0 +1,3 @@
+2022-04-15 05:06:54 ERROR GlobalExceptionHandler:17 - JSON parse error: Cannot deserialize value of type `java.time.LocalDate` from String "1999-08--": Failed to deserialize java.time.LocalDate: (java.time.format.DateTimeParseException) Text '1999-08--' could not be parsed at index 8; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.time.LocalDate` from String "1999-08--": Failed to deserialize java.time.LocalDate: (java.time.format.DateTimeParseException) Text '1999-08--' could not be parsed at index 8
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 6, column: 22] (through reference chain: clinica.consultorio.dto.PatientDTO["admissionDate"])
+  

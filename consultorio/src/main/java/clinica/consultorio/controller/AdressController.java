@@ -2,6 +2,7 @@ package clinica.consultorio.controller;
 
 import clinica.consultorio.dto.AdressDTO;
 import clinica.consultorio.service.impl.AdressService;
+import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -15,12 +16,15 @@ import java.util.Set;
 @RequestMapping("api/adress")
 public class AdressController {
 
+    private static final Logger logger = Logger.getLogger(AdressController.class);
+
     @Autowired
     private AdressService adressService;
 
     @GetMapping("/{id}")
     public ResponseEntity<AdressDTO> findById(@PathVariable("id") Integer id) {
         AdressDTO adressDTO = adressService.findById(id);
+        logger.info("Adress con el id "+adressDTO.getId()+" buscada en la base de datos");
         return new ResponseEntity<>(adressDTO, HttpStatus.OK);
     }
 //los otros controller
@@ -52,6 +56,7 @@ public class AdressController {
     @GetMapping("/list")
     public ResponseEntity<Set<AdressDTO>> findAll() {
         Set<AdressDTO> adressDTO_list = adressService.findAll();
+        logger.info("Lista completa de Adress buscada en la base de datos.");
         return new ResponseEntity<>(adressDTO_list, HttpStatus.OK);
     }
 
