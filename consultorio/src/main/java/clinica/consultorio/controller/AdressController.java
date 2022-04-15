@@ -24,7 +24,7 @@ public class AdressController {
     @GetMapping("/{id}")
     public ResponseEntity<AdressDTO> findById(@PathVariable("id") Integer id) {
         AdressDTO adressDTO = adressService.findById(id);
-        logger.info("Adress con el id "+adressDTO.getId()+" buscada en la base de datos");
+        logger.info("Adress con el id "+id+" buscada en la base de datos");
         return new ResponseEntity<>(adressDTO, HttpStatus.OK);
     }
 //los otros controller

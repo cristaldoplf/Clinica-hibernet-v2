@@ -1,3 +1,27 @@
 2022-04-15 05:06:54 ERROR GlobalExceptionHandler:17 - JSON parse error: Cannot deserialize value of type `java.time.LocalDate` from String "1999-08--": Failed to deserialize java.time.LocalDate: (java.time.format.DateTimeParseException) Text '1999-08--' could not be parsed at index 8; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.time.LocalDate` from String "1999-08--": Failed to deserialize java.time.LocalDate: (java.time.format.DateTimeParseException) Text '1999-08--' could not be parsed at index 8
  at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 6, column: 22] (through reference chain: clinica.consultorio.dto.PatientDTO["admissionDate"])
+  2022-04-15 05:21:46 INFO  DentistController:34 - Dentist con el id 1 creado en la base de datos
+  2022-04-15 05:21:49 ERROR GlobalExceptionHandler:17 - could not execute statement; SQL [n/a]; constraint [FK8EXAP5WMG8KMB1G1RX3BY21YT]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-15 05:21:54 INFO  PatientController:36 - Patient con el id 1 creado en la base de datos
+  2022-04-15 05:21:59 INFO  AppointmentController:41 - Appointment con el id 2 creado en la base de datos
+  2022-04-15 05:22:08 ERROR GlobalExceptionHandler:17 - ModelMapper mapping errors:
+
+1) Error mapping clinica.consultorio.entidades.Appointment to clinica.consultorio.dto.AppointmentDTO
+
+1 error
+  2022-04-15 05:22:30 ERROR GlobalExceptionHandler:17 - ModelMapper mapping errors:
+
+1) Error mapping clinica.consultorio.entidades.Appointment to clinica.consultorio.dto.AppointmentDTO
+
+1 error
+  2022-04-15 05:22:32 INFO  AppointmentController:34 - Appointment con el id 2 buscado en la base de datos
+  2022-04-15 05:22:44 WARN  AppointmentController:48 - Se intenta borrar el Appointment con el id 1 en la base de datos
+  2022-04-15 05:22:48 WARN  AppointmentController:48 - Se intenta borrar el Appointment con el id 2 en la base de datos
+  2022-04-15 05:22:52 ERROR GlobalExceptionHandler:17 - ModelMapper mapping errors:
+
+1) Error mapping clinica.consultorio.entidades.Appointment to clinica.consultorio.dto.AppointmentDTO
+
+1 error
+  2022-04-15 05:22:57 WARN  PatientController:43 - Se intenta borrar el Patient con el id 11 en la base de datos
+  2022-04-15 05:23:00 WARN  DentistController:41 - Se intenta borrar el Dentist con el id 3 en la base de datos
   

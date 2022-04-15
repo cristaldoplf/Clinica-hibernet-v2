@@ -31,7 +31,7 @@ public class AppointmentController {
     @GetMapping("/{id}")
     public ResponseEntity<AppointmentDTO> findById(@PathVariable("id") Integer id) {
         AppointmentDTO newAppointment = appointmentService.findById(id);
-        logger.info("Appointment con el id "+newAppointment.getId()+" buscado en la base de datos");
+        logger.info("Appointment con el id "+id+" buscado en la base de datos");
         return new ResponseEntity<>(newAppointment, HttpStatus.OK);
     }
 
@@ -45,7 +45,7 @@ public class AppointmentController {
     @DeleteMapping("/{id}")
     public ResponseEntity<String> deleteById(@PathVariable("id") Integer id) {
         appointmentService.deleteById(id);
-        logger.info("Se intenta borrar el Appointment con el id "+id+" en la base de datos");
+        logger.warn("Se intenta borrar el Appointment con el id "+id+" en la base de datos");
         return new ResponseEntity<>("Appointment eliminado",HttpStatus.OK);
     }
 
