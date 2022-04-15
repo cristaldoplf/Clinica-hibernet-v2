@@ -1,9 +1,12 @@
 package clinica.consultorio.dto;
 
+import clinica.consultorio.entidades.Appointment;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+
+import java.util.Set;
 
 @Getter
 @Setter
@@ -15,5 +18,6 @@ public class DentistDTO {
     private String name;
     private String lastName;
     private String licenceNumber;
+    private Set<Appointment> appointment_list;
 
 }

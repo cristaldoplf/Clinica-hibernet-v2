@@ -37,28 +37,23 @@ public class DentistController {
     }
 
     @PutMapping("/update")
-    public ResponseEntity<DentistDTO> update(@RequestBody DentistDTO dentistDTO) throws ServerException{
-        if (dentistDTO.getId() == null){
-            throw new ServerException("El request no trae id");
-        }
-        if(dentistService.findById(dentistDTO.getId()) == null){
-            throw new ServerException("Dentist no encontrado");
-        }else{
-            DentistDTO updateDentist = dentistService.update(dentistDTO);
-            return new ResponseEntity<>(updateDentist, HttpStatus.OK);
-        }
+    public ResponseEntity<DentistDTO> update(@RequestBody DentistDTO dentistDTO) {
+
+        DentistDTO updateDentist = dentistService.update(dentistDTO);
+        return new ResponseEntity<>(updateDentist, HttpStatus.OK);
+
     }
 
     @GetMapping("/list")
-    public ResponseEntity<Set<DentistDTO>> findAll(){
+    public ResponseEntity<Set<DentistDTO>> findAll() {
         Set<DentistDTO> dentistDTOList = dentistService.findAll();
-        return new ResponseEntity<>(dentistDTOList,HttpStatus.OK);
+        return new ResponseEntity<>(dentistDTOList, HttpStatus.OK);
     }
 
     @GetMapping("/name")
-    public ResponseEntity<DentistDTO> findByName(@RequestParam String name){
+    public ResponseEntity<DentistDTO> findByName(@RequestParam String name) {
         DentistDTO dentistDTO = dentistService.getOdontologoByName(name);
-        return new ResponseEntity<>(dentistDTO,HttpStatus.OK);
+        return new ResponseEntity<>(dentistDTO, HttpStatus.OK);
     }
 
 

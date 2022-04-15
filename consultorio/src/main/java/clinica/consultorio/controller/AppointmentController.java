@@ -12,6 +12,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.rmi.ServerException;
+import java.util.Set;
 
 @RestController
 @RequestMapping("api/appointment")
@@ -42,23 +43,15 @@ public class AppointmentController {
         return new ResponseEntity<>("Appointment eliminado",HttpStatus.OK);
     }
 
-//    @PutMapping("/update")
-//    public ResponseEntity<AppointmentDTO> update(@RequestBody AppointmentDTO appointmentDTO, @RequestParam String nameDentist, @RequestParam String namePatient) throws ServerException {
-//        AppointmentDTO newApoointmentDTO = appointmentDTO;
-////        if (newApoointmentDTO.getId() == null){
-////            throw new ServerException("El request no trae id");
-////        }
-////        if(appointmentService.findById(newApoointmentDTO.getId()) == null){
-////            throw new ServerException("Patient no encontrado");
-////        }else{
-//            //busco los ID por los parametros que entran en el endpoint.
-//            newApoointmentDTO.setId_dentist(dentistService.getOdontologoByName(nameDentist).getId());
-//            newApoointmentDTO.setId_patient(patientService.getPatientByName(namePatient).getId());
-//
-//            //update
-//            AppointmentDTO updatedAppointment = appointmentService.update(newApoointmentDTO);
-//            return new ResponseEntity<>(updatedAppointment, HttpStatus.OK);
-//        }
-//    }
+    @PutMapping("/update")
+    public ResponseEntity<AppointmentDTO> update(@RequestBody AppointmentDTO appointmentDTO){
+            AppointmentDTO updateAppointment = appointmentService.update(appointmentDTO);
+            return new ResponseEntity<>(updateAppointment, HttpStatus.OK);
+    }
 
+    @GetMapping("/list")
+    public ResponseEntity<Set<AppointmentDTO>> findAll(){
+        Set<AppointmentDTO> appointmentDTO_list = appointmentService.findAll();
+        return new ResponseEntity<>(appointmentDTO_list,HttpStatus.OK);
+    }
 }
