@@ -31,3 +31,7 @@ footer{
   margin: 10px;
   width: 40px;
 }
+
+input { 
+  text-align: center; 
+}

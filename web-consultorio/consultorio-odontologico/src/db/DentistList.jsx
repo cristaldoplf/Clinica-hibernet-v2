@@ -1,12 +1,14 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
+import FormUpdate from '../components/FormUpdate';
 
 
 
 
 export default function DentistList() {
   const [list, setList] = useState([]);
-
+  const [updating, setUpdating] = useState([false, -1]);
+  const [dentistToUpdate, setDentistToUpdate] = useState();
 
 
   useEffect(() => {
@@ -15,7 +17,7 @@ export default function DentistList() {
   }, [])
 
   const updateList = () => {
-    var requestOptions = {
+    let requestOptions = {
       method: 'GET',
       redirect: 'follow'
     };
@@ -45,39 +47,43 @@ export default function DentistList() {
       .catch(error => console.log('error', error));
   }
 
+  const cancelUpdate = () => {
+    setUpdating([false, -1])
+  }
+
   const modifyDentist = (id) => {
     console.log(id)
+    setUpdating([true, id])
+
   }
 
 
   return (
-    <table className="table mx-auto" style={{ maxWidth: "80%" }}>
-      <thead>
-        <tr>
-          <th scope="col">ID</th>
-          <th scope="col">Nombre</th>
-          <th scope="col">pellido</th>
-        </tr>
-      </thead>
-      <tbody>
-        {list.map((ele, i) => {
-          return (
-            <tr key={i} className="align-middle">
-              <th scope="row">{ele.id}</th>
-              <td key={"2" + ele.name}>{ele.name}</td>
-              <td key={"3" + ele.lastName}>{ele.lastName}</td>
-              <Link to={"/"} class="btn btn-outline-success"> Modify</Link>
-              <td onClick={() => modifyDentist(ele.id)} className='btn btn-outline-success'> Modify </td>
-              <td onClick={() => deleteDentist(ele.id)} className='btn btn-outline-danger delete-button'> X </td>
-              
-            </tr>
-          )
-        })}
-      </tbody>
-    </table>
+    <div>
+      <table className="table mx-auto" style={{ maxWidth: "80%" }}>
+        <thead>
+          <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">pellido</th>
+          </tr>
+        </thead>
+        <tbody>
+          {list.sort((a, b) => a.id - b.id).map((ele, i) => {
+            return (
+              <tr key={i} className="align-middle">
+                <th scope="row">{ele.id}</th>
+                <td key={"2" + ele.name}>{ele.name}</td>
+                <td key={"3" + ele.lastName}>{ele.lastName}</td>
+                <td onClick={() => modifyDentist(ele.id)} className='btn btn-outline-success'> Modify </td>
+                <td onClick={() => deleteDentist(ele.id)} className='btn btn-outline-danger delete-button'> X </td>
+              </tr>
+            )
+          })}
+        </tbody>
+      </table>
+      {updating[0] ? <FormUpdate target={updating[1]} update={updateList} cancelUpdate={cancelUpdate} /> : ""}
+
+    </div>
   )
 }
-{/* <th scope="row">1</th>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td> */}

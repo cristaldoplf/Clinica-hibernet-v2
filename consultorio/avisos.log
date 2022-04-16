@@ -1051,4 +1051,732 @@
   2022-04-15 22:58:32 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
   2022-04-15 22:58:38 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
   2022-04-15 22:58:38 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:01:22 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:01:22 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:02:59 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:03:19 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:03:20 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:03:39 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:03:44 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:03:46 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:03:50 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:03:53 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:04:04 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:05:26 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:05:27 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:05:27 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:05:44 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:07:55 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:07:58 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:07:58 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:08:04 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:08:40 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:08:40 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:08:43 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:08:43 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:08:46 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:08:46 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:08:51 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:08:51 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:09:01 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:09:05 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:13:21 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:13:21 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:13:24 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:13:24 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:13:33 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:13:57 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:14:21 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:14:21 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:14:22 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:14:22 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:14:24 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:14:24 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:14:49 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:15:17 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:15:17 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:15:23 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:15:23 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:16:25 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:16:25 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:19:20 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:19:20 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:19:41 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:19:41 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:19:47 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:19:47 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:19:54 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:19:58 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:20:04 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:20:11 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:20:27 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:20:39 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:20:39 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:21:02 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:21:02 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:21:21 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:21:21 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:21:28 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:21:28 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:21:50 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:21:52 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:21:52 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:22:15 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:22:15 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:22:27 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:22:27 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:22:47 INFO  DentistController:36 - Dentist con el id 13 creado en la base de datos
+  2022-04-15 23:22:52 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-15 23:22:58 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:22:58 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:23:22 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:23:22 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:24:15 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:24:15 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:26:14 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:26:14 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:26:15 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:26:15 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:28:16 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:28:16 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:28:17 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:28:17 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:33:16 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:33:16 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:33:48 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:33:48 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:33:50 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:33:50 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:34:35 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:34:35 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:35:06 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:35:06 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:35:07 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:35:07 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:36:14 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:36:21 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:36:27 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:36:27 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:36:28 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-15 23:36:28 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-15 23:36:39 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:36:39 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:36:40 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:36:40 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:36:54 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:37:09 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:37:09 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:37:09 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:37:13 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:37:14 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:37:16 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:37:17 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:37:17 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:37:31 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:37:31 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:37:56 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:37:56 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:37:58 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:37:58 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:38:00 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:38:00 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:38:11 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:38:11 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:38:39 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:38:39 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:40:16 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:40:16 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:40:17 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:40:17 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:40:18 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:40:18 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:40:37 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:40:37 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:40:37 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:40:58 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:40:58 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:41:00 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-15 23:41:00 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-15 23:41:25 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-15 23:41:39 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-15 23:41:41 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:41:41 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:42:06 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:42:06 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:42:29 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:42:29 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:42:39 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:42:39 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:47:45 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:47:45 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:48:00 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:48:00 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:48:23 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:48:23 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:48:27 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:48:27 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:48:30 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:48:30 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:02 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:02 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:02 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:02 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:03 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:03 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:07 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:07 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:14 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:14 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:14 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:49:29 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:37 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:56 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:56 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:49:58 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:50:43 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:50:46 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:50:47 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:50:47 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:50:50 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-15 23:51:00 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:51:00 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:51:03 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:51:22 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:51:22 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:51:24 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-15 23:52:39 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:53:31 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:53:31 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:54:27 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:54:27 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:54:28 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:54:41 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:54:43 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:54:43 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:55:21 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:55:21 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:55:31 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:55:31 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:55:57 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:55:58 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:55:58 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:55:58 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:56:15 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:56:17 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:56:24 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:56:25 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:56:32 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:56:32 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:56:41 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:56:44 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:56:47 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:56:47 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:56:49 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:56:49 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:57:04 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:57:15 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:57:18 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:57:19 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:57:19 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:57:26 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:57:26 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:58:18 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:58:18 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:59:20 ERROR GlobalExceptionHandler:17 - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:25 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:26 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:59:30 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:59:32 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:59:32 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:59:33 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:33 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:33 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:33 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:33 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:33 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:33 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:33 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:33 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:35 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:35 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:35 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:35 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-15 23:59:35 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:59:35 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:59:51 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:59:51 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-15 23:59:52 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-15 23:59:52 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:20 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:20 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:20 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:20 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:27 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:28 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:00:30 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:00:30 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:00:49 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:00:49 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:00:54 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:00:54 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:01:31 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:01:31 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:01:32 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:01:32 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:03:13 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:03:16 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:03:19 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:03:19 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:03:19 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:03:19 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:03:34 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:03:43 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:03:48 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:04:19 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:04:23 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:04:34 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:04:38 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:04:44 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:04:58 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:05:23 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:05:30 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:05:40 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:05:49 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:05:54 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:05:57 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:05:57 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:05:59 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:05:59 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:06:32 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:06:37 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:06:40 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:06:46 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:07:04 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:07:08 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:07:17 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:07:17 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:07:20 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:07:20 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:07:35 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:07:37 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:07:43 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:07:46 INFO  DentistController:28 - Dentist con el id 13 buscado en la base de datos
+  2022-04-16 00:07:47 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:07:47 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:07:48 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:07:48 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:08:08 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:08:10 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:08:16 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:08:24 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:08:35 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:08:41 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:08:45 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:08:51 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:08:58 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:09:02 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:09:17 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:09:32 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:09:34 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:09:40 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:09:46 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:09:51 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:10:00 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:10:11 INFO  DentistController:28 - Dentist con el id 11 buscado en la base de datos
+  2022-04-16 00:10:33 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:10:33 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:10:38 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:10:38 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:10:45 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:10:59 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:11:06 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:11:10 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:11:18 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:11:22 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:11:24 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:11:29 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:11:41 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:11:50 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:12:02 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:12:05 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:13:26 INFO  DentistController:36 - Dentist con el id 14 creado en la base de datos
+  2022-04-16 00:14:07 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:14:07 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:14:07 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:14:07 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:14:13 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:14:15 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:14:15 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 00:14:16 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
+  2022-04-16 00:14:16 INFO  DentistController:28 - Dentist con el id 12 buscado en la base de datos
   

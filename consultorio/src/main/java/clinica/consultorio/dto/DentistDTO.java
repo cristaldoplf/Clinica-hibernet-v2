@@ -17,6 +17,6 @@ public class DentistDTO {
     private Integer id;
     private String name;
     private String lastName;
-    private String licenceNumber;
+    private String licenseNumber;
 
 }
