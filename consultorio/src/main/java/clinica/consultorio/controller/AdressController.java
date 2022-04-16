@@ -21,6 +21,7 @@ public class AdressController {
     @Autowired
     private AdressService adressService;
 
+    @CrossOrigin
     @GetMapping("/{id}")
     public ResponseEntity<AdressDTO> findById(@PathVariable("id") Integer id) {
         AdressDTO adressDTO = adressService.findById(id);
@@ -52,7 +53,7 @@ public class AdressController {
 //            return new ResponseEntity<>(updateAdress, HttpStatus.OK);
 //        }
 //    }
-
+@CrossOrigin
     @GetMapping("/list")
     public ResponseEntity<Set<AdressDTO>> findAll() {
         Set<AdressDTO> adressDTO_list = adressService.findAll();

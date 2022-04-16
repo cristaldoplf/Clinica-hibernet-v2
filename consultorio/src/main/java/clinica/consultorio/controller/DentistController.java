@@ -21,6 +21,7 @@ public class DentistController {
     @Autowired
     private DentistService dentistService;
 
+    @CrossOrigin
     @GetMapping("/{id}")
     public ResponseEntity<DentistDTO> findById(@PathVariable("id") Integer id) {
         DentistDTO dentistDTO = dentistService.findById(id);
@@ -28,6 +29,7 @@ public class DentistController {
         return new ResponseEntity<>(dentistDTO, HttpStatus.OK);
     }
 
+    @CrossOrigin
     @PostMapping
     public ResponseEntity<DentistDTO> create(@RequestBody DentistDTO dentistDTO) {
         DentistDTO newDentistDTO = dentistService.create(dentistDTO);
@@ -35,6 +37,7 @@ public class DentistController {
         return new ResponseEntity<>(newDentistDTO, HttpStatus.OK);
     }
 
+    @CrossOrigin
     @DeleteMapping("/{id}")
     public ResponseEntity<String> deleteById(@PathVariable("id") Integer id) {
         dentistService.deleteById(id);
@@ -42,6 +45,7 @@ public class DentistController {
         return new ResponseEntity<>("Dentist eliminado", HttpStatus.OK);
     }
 
+    @CrossOrigin
     @PutMapping("/update")
     public ResponseEntity<DentistDTO> update(@RequestBody DentistDTO dentistDTO) {
         DentistDTO updateDentist = dentistService.update(dentistDTO);
@@ -50,6 +54,7 @@ public class DentistController {
 
     }
 
+    @CrossOrigin
     @GetMapping("/list")
     public ResponseEntity<Set<DentistDTO>> findAll() {
         Set<DentistDTO> dentistDTOList = dentistService.findAll();
@@ -57,6 +62,7 @@ public class DentistController {
         return new ResponseEntity<>(dentistDTOList, HttpStatus.OK);
     }
 
+    @CrossOrigin
     @GetMapping("/name")
     public ResponseEntity<DentistDTO> findByName(@RequestParam String name) {
         DentistDTO dentistDTO = dentistService.getOdontologoByName(name);
