@@ -17,9 +17,9 @@ class DentistServiceTest {
     @Test
     public void createDentistTest() {
         DentistDTO dentist = new DentistDTO();
-        dentist.setLastName("TestCrearDentista");
-        dentist.setLicenseNumber("LicenceTestDentista");
-        dentist.setLastName("ApellidoDentistTest");
+        dentist.setName("TestCrearDentista1");
+        dentist.setLicenseNumber("LicenceTestDentista1");
+        dentist.setLastName("ApellidoDentistTest1");
 
         DentistDTO newDentist = dentistService.create(dentist);
         assertNotNull(newDentist);

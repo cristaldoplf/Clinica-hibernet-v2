@@ -4,7 +4,7 @@ import Footer from './Footer';
 import Login from './Login';
 import NotFound from './NotFound';
 
-import DentistList from "../db/DentistList";
+import DentistList from "./DentistList";
 
 function Design() {
   return (
