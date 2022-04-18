@@ -23,7 +23,10 @@ public class DentistController {
 
     @CrossOrigin
     @GetMapping("/{id}")
-    public ResponseEntity<DentistDTO> findById(@PathVariable("id") Integer id) {
+    public ResponseEntity<DentistDTO> findById(@PathVariable("id") Integer id) throws Exception {
+        if (id < 1 || id == null){
+            throw new Exception("El id es incorrecto");
+        }
         DentistDTO dentistDTO = dentistService.findById(id);
         logger.info("Dentist con el id " + id + " buscado en la base de datos");
         return new ResponseEntity<>(dentistDTO, HttpStatus.OK);
@@ -39,7 +42,10 @@ public class DentistController {
 
     @CrossOrigin
     @DeleteMapping("/{id}")
-    public ResponseEntity<String> deleteById(@PathVariable("id") Integer id) {
+    public ResponseEntity<String> deleteById(@PathVariable("id") Integer id) throws Exception {
+        if (id < 1 || id == null){
+            throw new Exception("El id es incorrecto");
+        }
         dentistService.deleteById(id);
         logger.warn("Se intenta borrar el Dentist con el id " + id + " en la base de datos");
         return new ResponseEntity<>("Dentist eliminado", HttpStatus.OK);
@@ -47,7 +53,10 @@ public class DentistController {
 
     @CrossOrigin
     @PutMapping("/update")
-    public ResponseEntity<DentistDTO> update(@RequestBody DentistDTO dentistDTO) {
+    public ResponseEntity<DentistDTO> update(@RequestBody DentistDTO dentistDTO) throws Exception {
+        if (dentistDTO.getId() < 1 || dentistDTO.getId() == null){
+            throw new Exception("El id es incorrecto");
+        }
         DentistDTO updateDentist = dentistService.update(dentistDTO);
         logger.info("Se intenta actualizar el Dentist con el id " + updateDentist.getId() + " en la base de datos");
         return new ResponseEntity<>(updateDentist, HttpStatus.OK);
@@ -64,7 +73,10 @@ public class DentistController {
 
     @CrossOrigin
     @GetMapping("/name")
-    public ResponseEntity<DentistDTO> findByName(@RequestParam String name) {
+    public ResponseEntity<DentistDTO> findByName(@RequestParam String name) throws Exception {
+        if (name.length() < 1 || name == null){
+            throw new Exception("El id es incorrecto");
+        }
         DentistDTO dentistDTO = dentistService.getOdontologoByName(name);
         logger.info("Se busca un doctor ocn le nombre " + name + " en la base de datos");
         return new ResponseEntity<>(dentistDTO, HttpStatus.OK);

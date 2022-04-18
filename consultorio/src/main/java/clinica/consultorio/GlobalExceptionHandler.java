@@ -12,9 +12,15 @@ public class GlobalExceptionHandler {
 
     private static final Logger logger = Logger.getLogger(GlobalExceptionHandler.class);
 
-    @ExceptionHandler(Exception.class)
-    public ResponseEntity<?> allErrors(Exception ex, WebRequest req){
+//    @ExceptionHandler(Exception.class)
+//    public ResponseEntity<?> allErrors(Exception ex, WebRequest req){
+//        logger.error(ex.getMessage());
+//        return new ResponseEntity<>("Error "+ ex.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR);
+//    }
+
+    @ExceptionHandler({Exception.class})
+    public ResponseEntity<String> procesarErrorNotFound(Exception ex){
         logger.error(ex.getMessage());
-        return new ResponseEntity<>("Error "+ ex.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR);
+        return ResponseEntity.status(HttpStatus.NOT_FOUND).body(ex.getMessage());
     }
 }

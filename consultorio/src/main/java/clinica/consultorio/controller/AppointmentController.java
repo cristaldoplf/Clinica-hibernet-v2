@@ -30,7 +30,10 @@ public class AppointmentController {
 
     @CrossOrigin
     @GetMapping("/{id}")
-    public ResponseEntity<AppointmentDTO> findById(@PathVariable("id") Integer id) {
+    public ResponseEntity<AppointmentDTO> findById(@PathVariable("id") Integer id) throws Exception {
+        if (id < 1 || id == null){
+            throw new Exception("El id es incorrecto");
+        }
         AppointmentDTO newAppointment = appointmentService.findById(id);
         logger.info("Appointment con el id "+id+" buscado en la base de datos");
         return new ResponseEntity<>(newAppointment, HttpStatus.OK);
@@ -46,7 +49,10 @@ public class AppointmentController {
 
     @CrossOrigin
     @DeleteMapping("/{id}")
-    public ResponseEntity<String> deleteById(@PathVariable("id") Integer id) {
+    public ResponseEntity<String> deleteById(@PathVariable("id") Integer id) throws Exception {
+        if (id < 1 || id == null){
+            throw new Exception("El id es incorrecto");
+        }
         appointmentService.deleteById(id);
         logger.warn("Se intenta borrar el Appointment con el id "+id+" en la base de datos");
         return new ResponseEntity<>("Appointment eliminado",HttpStatus.OK);
@@ -54,7 +60,10 @@ public class AppointmentController {
 
     @CrossOrigin
     @PutMapping("/update")
-    public ResponseEntity<AppointmentDTO> update(@RequestBody AppointmentDTO appointmentDTO){
+    public ResponseEntity<AppointmentDTO> update(@RequestBody AppointmentDTO appointmentDTO) throws Exception {
+        if (appointmentDTO.getId() < 1 || appointmentDTO.getId() == null){
+            throw new Exception("El id es incorrecto");
+        }
             AppointmentDTO updateAppointment = appointmentService.update(appointmentDTO);
         logger.info("Se intenta actualizar el Appointment con el id "+appointmentDTO.getId()+" en la base de datos");
             return new ResponseEntity<>(updateAppointment, HttpStatus.OK);

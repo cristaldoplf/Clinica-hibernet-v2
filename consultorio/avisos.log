@@ -302,4 +302,227 @@
   2022-04-16 03:22:57 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
   2022-04-16 03:23:03 INFO  DentistController:52 - Se intenta actualizar el Dentist con el id 32 en la base de datos
   2022-04-16 03:23:03 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:25:28 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:25:28 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:25:30 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:25:30 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:25:30 INFO  DentistController:28 - Dentist con el id 31 buscado en la base de datos
+  2022-04-16 11:25:30 INFO  DentistController:28 - Dentist con el id 31 buscado en la base de datos
+  2022-04-16 11:25:30 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:25:30 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:25:34 INFO  DentistController:52 - Se intenta actualizar el Dentist con el id 31 en la base de datos
+  2022-04-16 11:25:34 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:28:19 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:28:19 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:28:23 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:28:23 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:29:22 INFO  DentistController:36 - Dentist con el id 35 creado en la base de datos
+  2022-04-16 11:29:22 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:29:38 INFO  DentistController:28 - Dentist con el id 35 buscado en la base de datos
+  2022-04-16 11:29:38 INFO  DentistController:28 - Dentist con el id 35 buscado en la base de datos
+  2022-04-16 11:29:38 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:29:38 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:29:38 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:29:38 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:29:53 INFO  DentistController:52 - Se intenta actualizar el Dentist con el id 35 en la base de datos
+  2022-04-16 11:29:53 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:30:04 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 35 en la base de datos
+  2022-04-16 11:30:04 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:30:35 INFO  DentistController:28 - Dentist con el id 32 buscado en la base de datos
+  2022-04-16 11:30:35 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:30:35 INFO  DentistController:28 - Dentist con el id 32 buscado en la base de datos
+  2022-04-16 11:30:35 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:30:35 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:30:35 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:30:52 INFO  DentistController:36 - Dentist con el id 36 creado en la base de datos
+  2022-04-16 11:30:52 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:31:48 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:31:48 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-16 11:31:53 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 36 en la base de datos
+  2022-04-16 11:31:53 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 00:19:06 INFO  DentistController:36 - Dentist con el id 37 creado en la base de datos
+  2022-04-18 00:19:08 INFO  DentistController:36 - Dentist con el id 38 creado en la base de datos
+  2022-04-18 00:19:28 WARN  DentistController:49 - Se intenta borrar el Dentist con el id 31 en la base de datos
+  2022-04-18 00:19:33 WARN  DentistController:49 - Se intenta borrar el Dentist con el id 31 en la base de datos
+  2022-04-18 00:19:36 WARN  DentistController:49 - Se intenta borrar el Dentist con el id 31 en la base de datos
+  2022-04-18 00:19:45 WARN  DentistController:49 - Se intenta borrar el Dentist con el id 31 en la base de datos
+  2022-04-18 00:20:44 WARN  DentistController:49 - Se intenta borrar el Dentist con el id 32 en la base de datos
+  2022-04-18 00:20:58 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 32
+  2022-04-18 00:21:24 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 32
+  2022-04-18 00:21:40 INFO  DentistController:36 - Dentist con el id 39 creado en la base de datos
+  2022-04-18 00:21:46 WARN  DentistController:49 - Se intenta borrar el Dentist con el id 39 en la base de datos
+  2022-04-18 00:21:47 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 39
+  2022-04-18 00:23:02 INFO  DentistController:36 - Dentist con el id 40 creado en la base de datos
+  2022-04-18 00:23:08 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 40 en la base de datos
+  2022-04-18 00:23:09 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 40 en la base de datos
+  2022-04-18 00:23:12 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 40 en la base de datos
+  2022-04-18 00:23:16 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 40 en la base de datos
+  2022-04-18 00:23:19 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 40 en la base de datos
+  2022-04-18 00:23:23 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:23:35 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:23:43 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:23:55 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:23:57 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:23:59 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:23:59 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:24:00 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:24:00 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:24:01 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:24:01 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:24:02 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:24:02 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:24:05 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:24:05 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:24:06 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:27:04 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-18 00:27:11 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 412 en la base de datos
+  2022-04-18 00:27:16 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 37 en la base de datos
+  2022-04-18 00:27:20 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 37 en la base de datos
+  2022-04-18 00:27:23 INFO  DentistController:36 - Dentist con el id 41 creado en la base de datos
+  2022-04-18 00:27:25 INFO  DentistController:36 - Dentist con el id 42 creado en la base de datos
+  2022-04-18 00:27:26 INFO  DentistController:36 - Dentist con el id 43 creado en la base de datos
+  2022-04-18 00:27:30 INFO  DentistController:52 - Se intenta actualizar el Dentist con el id 44 en la base de datos
+  2022-04-18 00:27:35 INFO  DentistController:52 - Se intenta actualizar el Dentist con el id 45 en la base de datos
+  2022-04-18 00:32:50 INFO  DentistController:37 - Dentist con el id 46 creado en la base de datos
+  2022-04-18 00:32:57 WARN  DentistController:52 - Se intenta borrar el Dentist con el id 46 en la base de datos
+  2022-04-18 00:33:49 ERROR GlobalExceptionHandler:17 - ModelMapper mapping errors:
+
+1) Error mapping clinica.consultorio.entidades.Dentist to clinica.consultorio.dto.DentistDTO
+
+1 error
+  2022-04-18 00:34:11 ERROR GlobalExceptionHandler:17 - ModelMapper mapping errors:
+
+1) Error mapping clinica.consultorio.entidades.Dentist to clinica.consultorio.dto.DentistDTO
+
+1 error
+  2022-04-18 00:37:47 ERROR GlobalExceptionHandler:17 - ModelMapper mapping errors:
+
+1) Error mapping clinica.consultorio.entidades.Dentist to clinica.consultorio.dto.DentistDTO
+
+1 error
+  2022-04-18 00:40:18 INFO  DentistController:36 - Dentist con el id 47 creado en la base de datos
+  2022-04-18 00:40:24 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 47 en la base de datos
+  2022-04-18 00:40:25 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 47 en la base de datos
+  2022-04-18 00:40:28 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 47 en la base de datos
+  2022-04-18 00:40:30 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 47 en la base de datos
+  2022-04-18 00:41:58 INFO  DentistController:36 - Dentist con el id 48 creado en la base de datos
+  2022-04-18 00:42:04 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 48 en la base de datos
+  2022-04-18 00:42:06 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 48 en la base de datos
+  2022-04-18 00:42:09 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 48 en la base de datos
+  2022-04-18 00:43:04 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 48
+  2022-04-18 00:43:11 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 48
+  2022-04-18 00:43:16 INFO  DentistController:61 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 00:43:26 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 43 en la base de datos
+  2022-04-18 00:43:27 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 43
+  2022-04-18 00:43:32 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 43
+  2022-04-18 00:43:33 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 43
+  2022-04-18 00:43:33 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 43
+  2022-04-18 00:43:38 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 43
+  2022-04-18 00:44:11 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 43 en la base de datos
+  2022-04-18 00:44:14 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 43 en la base de datos
+  2022-04-18 00:44:15 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 43 en la base de datos
+  2022-04-18 00:44:15 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 43 en la base de datos
+  2022-04-18 00:44:16 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 43 en la base de datos
+  2022-04-18 00:44:17 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 43 en la base de datos
+  2022-04-18 00:44:17 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 43 en la base de datos
+  2022-04-18 00:44:18 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 43 en la base de datos
+  2022-04-18 00:44:19 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 43 en la base de datos
+  2022-04-18 00:44:24 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 43 en la base de datos
+  2022-04-18 00:44:25 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 43 en la base de datos
+  2022-04-18 00:44:36 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 43
+  2022-04-18 00:44:38 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 43
+  2022-04-18 00:44:39 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 43
+  2022-04-18 00:45:39 INFO  DentistController:36 - Dentist con el id 49 creado en la base de datos
+  2022-04-18 00:45:46 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 49 en la base de datos
+  2022-04-18 00:45:47 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 49
+  2022-04-18 00:45:51 INFO  PatientController:38 - Patient con el id 4 creado en la base de datos
+  2022-04-18 00:45:57 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:45:59 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Patient with id 4
+  2022-04-18 00:47:36 ERROR GlobalExceptionHandler:17 - ModelMapper mapping errors:
+
+1) Error mapping clinica.consultorio.entidades.Patient to clinica.consultorio.dto.PatientDTO
+
+1 error
+  2022-04-18 00:48:29 ERROR GlobalExceptionHandler:17 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 00:48:42 INFO  PatientController:38 - Patient con el id 5 creado en la base de datos
+  2022-04-18 00:48:44 INFO  DentistController:36 - Dentist con el id 50 creado en la base de datos
+  2022-04-18 00:48:54 INFO  AppointmentController:43 - Appointment con el id 2 creado en la base de datos
+  2022-04-18 00:49:01 WARN  AppointmentController:51 - Se intenta borrar el Appointment con el id 2 en la base de datos
+  2022-04-18 00:49:02 WARN  AppointmentController:51 - Se intenta borrar el Appointment con el id 2 en la base de datos
+  2022-04-18 00:49:04 WARN  AppointmentController:51 - Se intenta borrar el Appointment con el id 2 en la base de datos
+  2022-04-18 00:49:12 WARN  AppointmentController:51 - Se intenta borrar el Appointment con el id 2 en la base de datos
+  2022-04-18 00:49:15 WARN  AppointmentController:51 - Se intenta borrar el Appointment con el id 2 en la base de datos
+  2022-04-18 00:49:16 WARN  AppointmentController:51 - Se intenta borrar el Appointment con el id 2 en la base de datos
+  2022-04-18 00:49:36 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:49:38 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:49:38 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:49:39 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:49:40 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:49:40 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:49:41 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:49:41 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:49:41 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:49:52 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:49:53 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:50:23 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:50:25 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:50:30 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 49
+  2022-04-18 00:50:31 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 49
+  2022-04-18 00:50:35 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 49
+  2022-04-18 00:50:39 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:50:40 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:50:40 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:52:04 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:52:06 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:52:06 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:52:07 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:52:07 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:52:09 INFO  PatientController:63 - Se intenta buscar la lista completa de Patients en la base de datos
+  2022-04-18 00:52:21 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 49
+  2022-04-18 00:52:26 WARN  PatientController:46 - Se intenta borrar el Patient con el id 4 en la base de datos
+  2022-04-18 00:52:30 WARN  PatientController:46 - Se intenta borrar el Patient con el id 545 en la base de datos
+  2022-04-18 00:52:34 WARN  AppointmentController:51 - Se intenta borrar el Appointment con el id 2 en la base de datos
+  2022-04-18 00:52:38 WARN  AppointmentController:51 - Se intenta borrar el Appointment con el id 55 en la base de datos
+  2022-04-18 00:52:41 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 49
+  2022-04-18 00:52:42 ERROR GlobalExceptionHandler:17 - Unable to find clinica.consultorio.entidades.Dentist with id 49
+  2022-04-18 00:58:55 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 49 en la base de datos
+  2022-04-18 00:58:56 WARN  DentistController:44 - Se intenta borrar el Dentist con el id 49 en la base de datos
+  2022-04-18 00:58:59 WARN  PatientController:46 - Se intenta borrar el Patient con el id 545 en la base de datos
+  2022-04-18 00:59:02 WARN  AppointmentController:51 - Se intenta borrar el Appointment con el id 55 en la base de datos
+  2022-04-18 00:59:02 WARN  AppointmentController:51 - Se intenta borrar el Appointment con el id 55 en la base de datos
+  2022-04-18 00:59:03 WARN  AppointmentController:51 - Se intenta borrar el Appointment con el id 55 en la base de datos
+  2022-04-18 12:52:20 INFO  DentistController:36 - Dentist con el id 51 creado en la base de datos
+  2022-04-18 12:52:30 INFO  PatientController:38 - Patient con el id 6 creado en la base de datos
+  2022-04-18 12:52:47 INFO  AppointmentController:43 - Appointment con el id 3 creado en la base de datos
+  2022-04-18 12:53:15 INFO  AppointmentController:43 - Appointment con el id 4 creado en la base de datos
+  2022-04-18 12:53:16 INFO  AppointmentController:43 - Appointment con el id 5 creado en la base de datos
+  2022-04-18 12:53:24 INFO  PatientController:30 - Patient con el id 5 buscado en la base de datos
+  2022-04-18 12:53:54 INFO  AppointmentController:67 - Se intenta buscar la lista completa de Appointments en la base de datos
+  2022-04-18 12:54:21 INFO  PatientController:63 - Se intenta buscar la lista completa de Patients en la base de datos
+  2022-04-18 12:55:47 INFO  AppointmentController:67 - Se intenta buscar la lista completa de Appointments en la base de datos
+  2022-04-18 15:05:10 ERROR GlobalExceptionHandler:23 - ModelMapper mapping errors:
+
+1) Error mapping clinica.consultorio.entidades.Dentist to clinica.consultorio.dto.DentistDTO
+
+1 error
+  2022-04-18 15:05:17 ERROR GlobalExceptionHandler:23 - ModelMapper mapping errors:
+
+1) Error mapping clinica.consultorio.entidades.Dentist to clinica.consultorio.dto.DentistDTO
+
+1 error
+  2022-04-18 15:05:24 ERROR GlobalExceptionHandler:23 - Request method 'GET' not supported
+  2022-04-18 15:05:32 ERROR GlobalExceptionHandler:23 - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "null"
+  2022-04-18 15:07:07 ERROR GlobalExceptionHandler:23 - ModelMapper mapping errors:
+
+1) Error mapping clinica.consultorio.entidades.Dentist to clinica.consultorio.dto.DentistDTO
+
+1 error
+  2022-04-18 15:07:25 ERROR GlobalExceptionHandler:23 - ModelMapper mapping errors:
+
+1) Error mapping clinica.consultorio.entidades.Dentist to clinica.consultorio.dto.DentistDTO
+
+1 error
+  2022-04-18 15:07:56 ERROR GlobalExceptionHandler:23 - 
+  2022-04-18 15:08:05 ERROR GlobalExceptionHandler:23 - 
+  2022-04-18 15:08:40 ERROR GlobalExceptionHandler:23 - El id es incorrecto
   

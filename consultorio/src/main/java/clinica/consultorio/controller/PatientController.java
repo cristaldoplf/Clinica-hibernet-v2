@@ -25,7 +25,10 @@ public class PatientController {
 
     @CrossOrigin
     @GetMapping("/{id}")
-    ResponseEntity<PatientDTO> findById(@PathVariable("id") Integer id) {
+    ResponseEntity<PatientDTO> findById(@PathVariable("id") Integer id) throws Exception {
+        if (id < 1 || id == null){
+            throw new Exception("El id es incorrecto");
+        }
         PatientDTO patientDTO = patientService.findById(id);
         logger.info("Patient con el id " + id + " buscado en la base de datos");
         return new ResponseEntity<>(patientDTO, HttpStatus.OK);
@@ -41,7 +44,10 @@ public class PatientController {
 
     @CrossOrigin
     @DeleteMapping("/{id}")
-    ResponseEntity<String> deleteById(@PathVariable("id") Integer id) {
+    ResponseEntity<String> deleteById(@PathVariable("id") Integer id) throws Exception {
+        if (id < 1 || id == null){
+            throw new Exception("El id es incorrecto");
+        }
         patientService.deleteById(id);
         logger.warn("Se intenta borrar el Patient con el id " + id + " en la base de datos");
         return new ResponseEntity<>("Patient eliminado", HttpStatus.OK);
@@ -49,7 +55,10 @@ public class PatientController {
 
     @CrossOrigin
     @PutMapping("/update")
-    public ResponseEntity<PatientDTO> update(@RequestBody PatientDTO patientDTO) {
+    public ResponseEntity<PatientDTO> update(@RequestBody PatientDTO patientDTO) throws Exception {
+        if (patientDTO.getId() < 1 || patientDTO.getId() == null){
+            throw new Exception("El id es incorrecto");
+        }
         PatientDTO updatePatient = patientService.update(patientDTO);
         logger.info("Se intenta actualizar el Patient con el id " + updatePatient.getId() + " en la base de datos");
         return new ResponseEntity<>(updatePatient, HttpStatus.OK);

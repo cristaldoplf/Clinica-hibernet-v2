@@ -23,7 +23,10 @@ public class AdressController {
 
     @CrossOrigin
     @GetMapping("/{id}")
-    public ResponseEntity<AdressDTO> findById(@PathVariable("id") Integer id) {
+    public ResponseEntity<AdressDTO> findById(@PathVariable("id") Integer id) throws Exception {
+        if (id < 1 || id == null){
+            throw new Exception("El id es incorrecto");
+        }
         AdressDTO adressDTO = adressService.findById(id);
         logger.info("Adress con el id "+id+" buscada en la base de datos");
         return new ResponseEntity<>(adressDTO, HttpStatus.OK);

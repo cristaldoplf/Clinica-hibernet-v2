@@ -1,3 +1,7 @@
+html{
+  height: 100%;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,7 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  height: 100%;
+  height: 100%;  
 }
 
 code {
@@ -13,12 +17,13 @@ code {
     monospace;
 }
 
+
 .div-center{
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  border: 5px solid #ffa600;
+  border: 5px solid #a19f9f;
   padding: 10px;
   width: 300px;
 }
@@ -37,7 +42,6 @@ input {
 }
 
 footer{
-  position:absolute;
   left:0;
   bottom:0;
   right:0;
