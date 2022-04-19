@@ -14,11 +14,10 @@ function Design() {
         <Routes>
           <Route path="/" element={<Login />} />
           <Route path="/*" element={<NotFound />} />
-          <Route path="/dentist" element={<DentistList/>} />
-
+          <Route path="/dentist" element={<DentistList />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
-      <Footer />
     </>
   )
 }

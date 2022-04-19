@@ -525,4 +525,398 @@
   2022-04-18 15:07:56 ERROR GlobalExceptionHandler:23 - 
   2022-04-18 15:08:05 ERROR GlobalExceptionHandler:23 - 
   2022-04-18 15:08:40 ERROR GlobalExceptionHandler:23 - El id es incorrecto
+  2022-04-18 15:18:58 INFO  DentistController:39 - Dentist con el id 52 creado en la base de datos
+  2022-04-18 15:19:04 ERROR GlobalExceptionHandler:23 - JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 2, column: 12]
+  2022-04-18 15:19:19 ERROR GlobalExceptionHandler:23 - JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 2, column: 12]
+  2022-04-18 15:21:09 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:21:09 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:21:24 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 41 en la base de datos
+  2022-04-18 15:21:24 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:21:27 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 42 en la base de datos
+  2022-04-18 15:21:27 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:21:30 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 44 en la base de datos
+  2022-04-18 15:21:30 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:21:32 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 45 en la base de datos
+  2022-04-18 15:21:32 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:21:43 INFO  DentistController:39 - Dentist con el id 53 creado en la base de datos
+  2022-04-18 15:21:43 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:21:46 INFO  DentistController:31 - Dentist con el id 53 buscado en la base de datos
+  2022-04-18 15:21:46 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:21:46 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:21:46 INFO  DentistController:31 - Dentist con el id 53 buscado en la base de datos
+  2022-04-18 15:21:46 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:21:46 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:21:59 INFO  DentistController:61 - Se intenta actualizar el Dentist con el id 53 en la base de datos
+  2022-04-18 15:21:59 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:22:04 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 38 en la base de datos
+  2022-04-18 15:22:04 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:23:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:23:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:24:37 INFO  DentistController:39 - Dentist con el id 54 creado en la base de datos
+  2022-04-18 15:24:37 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:24:42 INFO  DentistController:39 - Dentist con el id 55 creado en la base de datos
+  2022-04-18 15:24:42 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:24:58 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:24:58 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:26:24 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:26:24 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:38:48 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:38:48 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:39:41 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:39:41 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:40:27 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:40:27 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:43:02 INFO  DentistController:39 - Dentist con el id 56 creado en la base de datos
+  2022-04-18 15:43:02 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:47:57 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:47:57 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:52:16 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:52:16 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:52:18 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:52:18 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:52:24 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:52:24 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:52:59 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:52:59 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:53:57 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:53:57 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:54:11 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:54:11 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:54:21 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:54:21 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:54:29 INFO  DentistController:39 - Dentist con el id 57 creado en la base de datos
+  2022-04-18 15:54:29 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:55:04 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:55:07 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:55:09 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:55:11 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:55:17 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:55:17 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:55:25 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:55:25 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:56:38 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:56:43 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:56:48 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:56:56 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:01 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:14 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:17 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:21 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:23 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:25 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:36 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:44 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:45 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:47 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:53 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:57:58 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:58:05 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:58:13 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:58:16 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 15:58:20 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 16:21:40 INFO  DentistController:31 - Dentist con el id 58 buscado en la base de datos
+  2022-04-18 16:37:03 INFO  DentistController:39 - Dentist con el id 68 creado en la base de datos
+  2022-04-18 16:37:05 INFO  AppointmentController:46 - Appointment con el id 6 creado en la base de datos
+  2022-04-18 17:02:03 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:02:03 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:16:48 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:16:48 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:16:52 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 50 en la base de datos
+  2022-04-18 17:16:52 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:16:55 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:16:55 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:16:57 INFO  DentistController:31 - Dentist con el id 51 buscado en la base de datos
+  2022-04-18 17:16:57 INFO  DentistController:31 - Dentist con el id 51 buscado en la base de datos
+  2022-04-18 17:16:57 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:16:57 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:16:57 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:16:57 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:17:03 INFO  DentistController:61 - Se intenta actualizar el Dentist con el id 51 en la base de datos
+  2022-04-18 17:17:03 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:17:09 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:17:09 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:17:14 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:17:14 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:17:24 INFO  DentistController:39 - Dentist con el id 69 creado en la base de datos
+  2022-04-18 17:17:24 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:17:41 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 52 en la base de datos
+  2022-04-18 17:17:41 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:18:31 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:18:31 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:18:34 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:18:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:18:36 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:18:36 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:18:39 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:18:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:18:41 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:18:42 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:18:44 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:18:44 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:18:46 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:18:46 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:18:49 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:18:49 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:18:51 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:18:51 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:18:56 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 53 en la base de datos
+  2022-04-18 17:18:56 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:18:59 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:18:59 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:01 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 54 en la base de datos
+  2022-04-18 17:19:01 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:04 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:19:04 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:06 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:06 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:08 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:19:08 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:11 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 55 en la base de datos
+  2022-04-18 17:19:11 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:25 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:25 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:26 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:26 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:28 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:28 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:19:31 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 56 en la base de datos
+  2022-04-18 17:19:31 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:02 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 58 en la base de datos
+  2022-04-18 17:20:02 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:09 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 57 en la base de datos
+  2022-04-18 17:20:09 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:12 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 59 en la base de datos
+  2022-04-18 17:20:12 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:15 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 60 en la base de datos
+  2022-04-18 17:20:15 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:17 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 61 en la base de datos
+  2022-04-18 17:20:17 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:28 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:20:28 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:33 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:33 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:34 INFO  DentistController:31 - Dentist con el id 51 buscado en la base de datos
+  2022-04-18 17:20:34 INFO  DentistController:31 - Dentist con el id 51 buscado en la base de datos
+  2022-04-18 17:20:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:38 INFO  DentistController:61 - Se intenta actualizar el Dentist con el id 51 en la base de datos
+  2022-04-18 17:20:38 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:42 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:20:42 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:46 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:20:46 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:21:17 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:21:17 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:21:19 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:21:19 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:21:22 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 62 en la base de datos
+  2022-04-18 17:21:22 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:21:24 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 63 en la base de datos
+  2022-04-18 17:21:24 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:21:57 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:21:57 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:21:59 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:21:59 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:22:52 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:22:52 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:22:58 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 64 en la base de datos
+  2022-04-18 17:22:58 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:01 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 65 en la base de datos
+  2022-04-18 17:23:01 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:21 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:21 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:22 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:22 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:25 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:25 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:27 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:23:27 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:30 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 66 en la base de datos
+  2022-04-18 17:23:30 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:32 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:32 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:33 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:33 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:33 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:33 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:35 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:35 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:35 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:35 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:36 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:36 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:36 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:36 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:36 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:36 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:37 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:37 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:37 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:37 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:37 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:37 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:38 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:38 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:38 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:38 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:38 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:38 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:38 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:38 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:40 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:40 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:50 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:50 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:51 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:23:51 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:24:14 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:24:16 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:24:34 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:24:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:11 INFO  DentistController:39 - Dentist con el id 70 creado en la base de datos
+  2022-04-18 17:25:12 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:14 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 70 en la base de datos
+  2022-04-18 17:25:14 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:18 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:18 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:18 INFO  DentistController:31 - Dentist con el id 67 buscado en la base de datos
+  2022-04-18 17:25:18 INFO  DentistController:31 - Dentist con el id 67 buscado en la base de datos
+  2022-04-18 17:25:18 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:18 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:30 INFO  DentistController:61 - Se intenta actualizar el Dentist con el id 67 en la base de datos
+  2022-04-18 17:25:30 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:34 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 67 en la base de datos
+  2022-04-18 17:25:34 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:37 ERROR GlobalExceptionHandler:23 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+  2022-04-18 17:25:37 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:39 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 68 en la base de datos
+  2022-04-18 17:25:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:42 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 69 en la base de datos
+  2022-04-18 17:25:42 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:54 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-18 17:25:54 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:03:44 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:03:44 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:08:49 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:08:49 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:12:55 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:12:55 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:13:01 INFO  DentistController:39 - Dentist con el id 1 creado en la base de datos
+  2022-04-19 00:13:01 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:13:03 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 1 en la base de datos
+  2022-04-19 00:13:03 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:13:12 INFO  DentistController:39 - Dentist con el id 2 creado en la base de datos
+  2022-04-19 00:13:12 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:13:16 INFO  DentistController:39 - Dentist con el id 3 creado en la base de datos
+  2022-04-19 00:13:16 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:13:22 INFO  DentistController:39 - Dentist con el id 4 creado en la base de datos
+  2022-04-19 00:13:22 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:13:25 INFO  DentistController:39 - Dentist con el id 5 creado en la base de datos
+  2022-04-19 00:13:25 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:13:27 INFO  DentistController:39 - Dentist con el id 6 creado en la base de datos
+  2022-04-19 00:13:27 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:14:21 INFO  DentistController:31 - Dentist con el id 2 buscado en la base de datos
+  2022-04-19 00:14:21 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:14:21 INFO  DentistController:31 - Dentist con el id 2 buscado en la base de datos
+  2022-04-19 00:14:21 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:14:21 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:14:21 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:15:47 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:15:47 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:15:53 INFO  DentistController:31 - Dentist con el id 6 buscado en la base de datos
+  2022-04-19 00:15:53 INFO  DentistController:31 - Dentist con el id 6 buscado en la base de datos
+  2022-04-19 00:15:53 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:15:53 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:15:53 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:15:53 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:16:23 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:16:23 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:16:30 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 2 en la base de datos
+  2022-04-19 00:16:30 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:16:33 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 3 en la base de datos
+  2022-04-19 00:16:33 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:16:36 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 4 en la base de datos
+  2022-04-19 00:16:36 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:16:39 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 5 en la base de datos
+  2022-04-19 00:16:39 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:16:41 WARN  DentistController:50 - Se intenta borrar el Dentist con el id 6 en la base de datos
+  2022-04-19 00:16:41 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:17:41 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:17:41 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:17:52 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:17:59 INFO  DentistController:39 - Dentist con el id 7 creado en la base de datos
+  2022-04-19 00:17:59 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:18:16 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:18:21 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:18:27 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:18:27 INFO  DentistController:31 - Dentist con el id 7 buscado en la base de datos
+  2022-04-19 00:18:27 INFO  DentistController:31 - Dentist con el id 7 buscado en la base de datos
+  2022-04-19 00:18:27 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:18:27 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:19:17 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:19:20 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:19:44 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:19:51 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:19:53 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:19:56 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:20:08 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:20:12 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:20:22 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:20:25 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:20:30 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:20:43 INFO  DentistController:39 - Dentist con el id 8 creado en la base de datos
+  2022-04-19 00:20:43 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:20:54 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:21:42 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:21:52 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:22:11 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:22:12 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:22:43 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:22:48 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:22:50 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:22:52 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:22:55 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:23:02 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:23:05 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:23:06 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:23:09 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:23:22 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:23:22 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:24:03 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:24:03 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:24:17 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:24:17 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:25:18 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:25:22 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:25:24 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:25:27 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:25:31 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:25:36 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:25:41 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:25:57 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:26:03 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:26:15 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:26:19 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:26:21 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
+  2022-04-19 00:26:28 INFO  DentistController:70 - Se intenta buscar la lista completa de Dentists en la base de datos
   

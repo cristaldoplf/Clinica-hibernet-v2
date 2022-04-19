@@ -94,14 +94,13 @@ export default function DentistList() {
 
 
   return (
-    <div>
-      <button onClick={() => createDentistDisplay()} className='btn btn-primary' style={{ margin: "20px" }}>Create Dentist</button>
-      <table className="table mx-auto" style={{ maxWidth: "80%" }}>
+    <div className='main-size'>
+      <table className="table mx-auto" style={{ maxWidth: "900px" }}>
         <thead>
           <tr>
             <th scope="col">ID</th>
-            <th scope="col">Nombre</th>
-            <th scope="col">pellido</th>
+            <th scope="col">Name</th>
+            <th scope="col">Lastname</th>
           </tr>
         </thead>
         <tbody>
@@ -116,6 +115,7 @@ export default function DentistList() {
               </tr>
             )
           })}
+          <button onClick={() => createDentistDisplay()} className='btn btn-primary' style={{ margin: "20px 0px 20px 0%" , }}>Add Dentist</button>
         </tbody>
       </table>
       {creating ? <FormCreateDentist cancelCreate={cancelCreate} update={updateList} /> : ""}

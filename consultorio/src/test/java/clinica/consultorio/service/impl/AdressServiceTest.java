@@ -12,11 +12,11 @@ import static org.junit.jupiter.api.Assertions.*;
 @SpringBootTest
 class AdressServiceTest {
 
-    @Autowired
-    IAdressService adressService;
-
-    @Test
-    public void createAdressTest(){
+//    @Autowired
+//    static IAdressService adressService;
+//
+//    @Test
+//    public void createAdressTest(){
 //        AdressDTO adressDTOTest = new AdressDTO();
 //        adressDTOTest.setStreet("Street Test");
 //        adressDTOTest.setAdressNumber("Adress Number Test");
@@ -28,7 +28,7 @@ class AdressServiceTest {
 //        System.out.println(newAdressDTO.getId());
 //        System.out.println("####################################################################################");
 //        AdressDTO newAdressDTOFinded = adressService.findById(newAdressDTO.getId());
-    }
+//    }
 
 
 
